@@ -1,0 +1,22 @@
+body{
+        padding: 2%;
+        font-family: sans-serif;
+        color: white;
+        background-color: black;
+}
+
+a:link{
+		      color: white;
+}
+
+a:visited{
+		      color: white;
+}
+
+a:hover{
+		      color: white;
+}
+
+a:active{
+		      color: white;
+}
